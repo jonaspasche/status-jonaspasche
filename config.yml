@@ -81,12 +81,12 @@ params:
   # For help, see the wiki:
   # https://github.com/mistermantas/cstate/wiki/Customization
   systems:
-    - description: 'data center uvensys (185.26.156.0/25),'
-      name: FRA3
-    - description: 'data center rh-tec (95.143.172.0/24),'
-      name: FRA2
     - description: 'data center plusline (82.98.82.0/24 82.98.87.0/24),'
       name: FRA1
+    - description: 'data center rh-tec (95.143.172.0/24),'
+      name: FRA2
+    - description: 'data center uvensys (185.26.156.0/25),'
+      name: FRA3
       
   # What header design should we use?
   #
@@ -99,7 +99,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
