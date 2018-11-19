@@ -14,3 +14,4 @@ connection issues
 ---
 
 There are currently connection problems with FRA1
+*Update* - Still problems with the network
