@@ -2,6 +2,7 @@
 title: connection issue
 date: 2018-11-19 10:00:00
 resolved: false
+resolvedWhen:
 severity: down
 affected:
   - FRA1
