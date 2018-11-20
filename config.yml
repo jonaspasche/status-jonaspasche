@@ -77,7 +77,7 @@ description: We continuously monitor the status of our network and if there are 
 
 params:
   customTabs:
-    - link: 'https://jonaspasche.com/#panel4'
+    - link: 'https://jonaspasche.com/impressum/'
       name: Legal Notice
     - link: 'https://jonaspasche.com/datenschutzerklaerung/'
       name: Privacy
