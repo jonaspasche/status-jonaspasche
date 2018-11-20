@@ -3,6 +3,7 @@ title: Test: connection issue
 date: 2018-11-19 10:00:00
 resolved: true
 resolvedWhen: 2018-11-19 13:15:00
+# down, disrupted, notice
 severity: down
 affected:
   - FRA1
