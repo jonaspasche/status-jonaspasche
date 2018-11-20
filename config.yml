@@ -81,8 +81,6 @@ params:
       name: Legal Notice
     - link: 'https://jonaspasche.com/datenschutzerklaerung/'
       name: Privacy
-    - name: Test
-      description: This is the service responsible for serving images, audio, and video. It is reliant on Fastly.
   # These are your systems. Change them to
   # change the amount of components.
   #
@@ -123,7 +121,7 @@ params:
   # in the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  # description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: We continuously monitor the status of our network and if there are any interruptions, a note will be posted here.
 
   # Tabs on homepage
   # Uncomment to enable.
