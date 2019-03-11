@@ -3,7 +3,7 @@ title: degraded performance
 date: 2019-03-11 11:30:00
 resolved: false
 # down, disrupted, notice
-severity: disrupted
+severity: down
 affected:
   - FRA1
 section: issue
