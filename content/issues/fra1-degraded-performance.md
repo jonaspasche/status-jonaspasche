@@ -1,6 +1,6 @@
 ---
 title: degraded performance
-date: 2019-03-11 11:30:00
+date: 2019-03-11 10:30:00
 resolved: false
 # down, disrupted, notice
 severity: disrupted
