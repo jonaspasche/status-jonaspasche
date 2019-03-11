@@ -1,9 +1,10 @@
 ---
 title: Performance issues
 date: 2019-03-11 11:30:00
-resolved: false
+resolved: true
+resolvedWhen: 2019-03-11 15:30:00
 # down, disrupted, notice
-severity: down
+severity: notice
 affected:
   - FRA1
 section: issue
@@ -13,4 +14,4 @@ Performance issues
 
 ---
 
-There are currently network problems at this location
+Currently the network is stable, but incident still ongoing. 
