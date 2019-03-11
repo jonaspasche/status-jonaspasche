@@ -1,5 +1,5 @@
 ---
-title: degraded performance
+title: Performance issues
 date: 2019-03-11 11:30:00
 resolved: false
 # down, disrupted, notice
@@ -9,7 +9,7 @@ affected:
 section: issue
 ---
 
-Performance issues.
+Performance issues
 
 ---
 
